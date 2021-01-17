@@ -3,3 +3,5 @@ class Pet:
         self.name="Pet"
     def say(self):
         print("I am "+self.name)
+class Animal:
+    pass
